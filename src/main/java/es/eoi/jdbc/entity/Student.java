@@ -4,7 +4,7 @@ import java.util.Date;
 
 public class Student {
 
-    public Student(int id, String name, String surName, Date birth_date) {
+    public Student(int id, String name, String surName, String birth_date) {
         this.id = id;
         this.name = name;
         this.surName = surName;
@@ -42,11 +42,11 @@ public class Student {
         this.surName = surName;
     }
 
-    public Date getBirth_date() {
+    public String getBirth_date() {
         return birth_date;
     }
 
-    public void setBirth_date(Date birth_date) {
+    public void setBirth_date(String birth_date) {
         this.birth_date = birth_date;
     }
 
@@ -56,6 +56,6 @@ public class Student {
 
     private  String surName;
 
-    private Date birth_date;
+    private String birth_date;
 
 }

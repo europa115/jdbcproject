@@ -10,6 +10,15 @@ public class StudentManagementMain {
 
     public static void main(String[] args) throws SQLException {
 
+       // Student x=new Student(1,"a","a","s");
+
+        //StudentRepositoryImpl prueba =new StudentRepositoryImpl();
+
+       // prueba.create(x);
+
+
+
+        //Student.imprimeStudent(prueba.findById("1"));
 
 
     }

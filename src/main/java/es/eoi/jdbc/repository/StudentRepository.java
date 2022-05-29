@@ -12,7 +12,7 @@ public interface StudentRepository {
 
     public Student findById(String id) throws SQLException;
     public List<Student> findAll();
-    public Student create(Student student) throws SQLException;
+    public void create(Student student) throws SQLException;
     public boolean delete(String id);
     public Student update(Student student);
 
