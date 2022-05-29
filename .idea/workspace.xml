@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54a78606-38df-4e37-a7a5-2a5fcafebc99" name="Changes" comment="Construyendo paquetes y clases">
+    <list default="true" id="54a78606-38df-4e37-a7a5-2a5fcafebc99" name="Changes" comment="Construyendo paquetes y clases e interfaces">
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/eoi/jdbc/app/StudentManagementMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/es/eoi/jdbc/repository/StudentRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/es/eoi/jdbc/repository/StudentRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/es/eoi/jdbc/repository/StudentRepositoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/es/eoi/jdbc/repository/StudentRepositoryImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/es/eoi/jdbc/service/StudentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/es/eoi/jdbc/service/StudentService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +18,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package-info" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -43,15 +43,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -82,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653673632006</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Construyendo paquetes y clases e interfaces">
+      <created>1653674922780</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1653674922780</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -100,6 +107,7 @@
     <MESSAGE value="Probando 2" />
     <MESSAGE value="Borrando clase hola" />
     <MESSAGE value="Construyendo paquetes y clases" />
-    <option name="LAST_COMMIT_MESSAGE" value="Construyendo paquetes y clases" />
+    <MESSAGE value="Construyendo paquetes y clases e interfaces" />
+    <option name="LAST_COMMIT_MESSAGE" value="Construyendo paquetes y clases e interfaces" />
   </component>
 </project>
